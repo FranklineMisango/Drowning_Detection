@@ -6,8 +6,7 @@ A Complex Drowning detection system that uses YOLOV7 & YOLOV8 to detect whether 
 ## Introduction
 
 ## YOLOV7 - PoseNet Detection
-
-![](YoloV7_Internship_Assignment_Video.mp4)
+![](./images/Results/5.png)
 
 ## YOLOV8 - Drowning Estimation
 ![](./images/Results/1.jpg)
