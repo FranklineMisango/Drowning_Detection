@@ -4,7 +4,11 @@
 A Complex Drowning detection system that uses YOLOV7 & YOLOV8 to detect whether a user in a video is drowning or not. 
 
 ## Introduction
-
+### Architectures
+* YOLOV7 
+![](./images/v7.png)
+*YOLOV8
+![](./images/v8.png)
 ## YOLOV7 - PoseNet Detection
 ![](./images/Results/5.png)
 
@@ -13,6 +17,7 @@ A Complex Drowning detection system that uses YOLOV7 & YOLOV8 to detect whether 
 ![](./images/Results/2.jpg)
 ![](./images/Results/3.jpg)
 ![](./images/Results/4.jpg)
+
 ## Results
 ![](./images/accuracy.png)
 ![](./images/losses.png)
