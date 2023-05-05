@@ -7,7 +7,7 @@ A Complex Drowning detection system that uses YOLOV7 & YOLOV8 to detect whether 
 ### Architectures
 * YOLOV7 
 ![](./images/v7.png)
-*YOLOV8
+* YOLOV8
 ![](./images/v8.png)
 ## YOLOV7 - PoseNet Detection
 ![](./images/Results/5.png)
@@ -26,7 +26,7 @@ A Complex Drowning detection system that uses YOLOV7 & YOLOV8 to detect whether 
 * Roboflow : https://app.roboflow.com/franklines-space-ywbil/drowning-detection-vxucl/deploy/1
 ## Conclusion
 
-*This project is still very limited to the Dataset I was provided inform of a video hence its overfitted
+* This project is still very limited to the Dataset I was provided inform of a video hence its overfitted
 
 ## Further Improvements
 * Robust Dataset
